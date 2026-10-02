@@ -1,0 +1,8 @@
+{
+  "config": {
+    "default": true
+  },
+  "customRules": [
+    "./botscope_rule.cjs"
+  ]
+}

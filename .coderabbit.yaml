@@ -1,3 +1,5 @@
-language: "en-US"
+language: en-US
 reviews:
-  request_changes_workflow: true
+  tools:
+    markdownlint:
+      enabled: true
